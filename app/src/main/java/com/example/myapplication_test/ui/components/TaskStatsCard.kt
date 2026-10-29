@@ -57,7 +57,7 @@ fun TaskStatsCard(
             ) {
                 Column {
                     Text(
-                        text = "Progress Tracker",
+                        text = "Progress Tracker For you",
                         style = MaterialTheme.typography.titleMedium,
                         fontWeight = FontWeight.Bold,
                         color = MaterialTheme.colorScheme.onPrimaryContainer
